@@ -5,4 +5,6 @@ This tool is used to view many protocol records such as CNAME Records, etc...
 apt-get install curl dnsutils whois -y
 
 # Usage
-sudo bash protorecords.sh
+git clone https://github.com/ProponentHacker/ProtoRecords
+cd ProtoRecords
+sudo bash ProtoRecords.sh
